@@ -9,3 +9,5 @@ Exercise:
 3. Write a binary search routine that returns the first occurrence of the key.
 
 4. If the above is recursive, convert it to non-recursive, or vice-versa.
+
+..........
