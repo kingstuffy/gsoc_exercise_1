@@ -1,0 +1,10 @@
+.row{
+    width: 100%;background-color: #B0D7EA; box-sizing: border-box;text-align: center;padding: 0px;
+    font-family: cursive;
+}
+.col{
+    height: 500px;box-sizing: border-box;display: inline-table;padding: 10px;padding-top: 20px;
+}
+.btn{
+    width:80%; margin-bottom: 3px;background: #E09222;color:white;font-size: large;
+}
